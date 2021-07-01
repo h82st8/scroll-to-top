@@ -1,1 +1,1 @@
-# scroll-to-top
+smooth scroll-to-top function in safari
